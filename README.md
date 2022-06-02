@@ -6,6 +6,8 @@
 
 In this lesson, we'll learn all about the **D**ocument **O**bject **M**odel, or **DOM** and how it became a necessary part of web development. We'll learn how to access and manipulate those elements.
 
+DOM Manipulation is how we are going to use our JS to override and control our HTML and CSS. It is going to be one of the most important concepts we learn in this class, and something that we will be working with every week from here on in.
+
 ## Lesson Objectives
 
 - Define the DOM
@@ -88,7 +90,7 @@ Being able to relate the different elements in this way is often referred to as 
 ### DOM
 
 The DOM stands for Document Object Model.
-When we send HTML to a browser, like we did with our mini Hawkins site, the browser renders the HTML (displays it in a window) and it also creates a giant object that represents the web page. If you are a fan of Stranger Things, you could almost think of the DOM as The Upside Down, a parallel world that is only visible to some (and also, not evil).
+When we send HTML to a browser, like we did with our mini Hawkins site, the browser renders the HTML (displays it in a window) and it also creates a giant object that represents the web page. If you are a fan of Stranger Things, you could almost think of the DOM as The Upside Down, a parallel world that is only visible to some (and while maybe not *evil* it can certainly cause a few headaches as you start getting further into it)).
 
 As web developers, we can interact with this object (DOM) and we can make changes to the DOM, the browser will then redraw the web page to reflect the changes we made to the DOM.
 
