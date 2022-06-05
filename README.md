@@ -1,6 +1,6 @@
 # Intro to the DOM
 
-![DOM](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.makeuseof.com%2Fwp-content%2Fuploads%2F2017%2F02%2FJavaScript-DOM-Featured-994x400.jpg&f=1&nofb=1)
+![Stranger](https://i.imgur.com/HbX7SMw.png)
 
 ## Lesson Overview
 
